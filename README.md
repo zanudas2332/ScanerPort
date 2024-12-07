@@ -1,3 +1,3 @@
 # ScanerPort
- Only Port Scan
+ Only Port Scan OR
  Multy port Scan
